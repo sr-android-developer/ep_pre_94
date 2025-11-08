@@ -1,0 +1,12 @@
+{
+  "registered_users": [
+    {
+      "username": "hasnat",
+      "device_id": "A1B2C3D4E5F6"
+    },
+    {
+      "username": "ali",
+      "device_id": "9F8E7D6C5B4A"
+    }
+  ]
+}
