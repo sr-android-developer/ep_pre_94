@@ -1,26 +1,25 @@
 {
   "registered_users": [
     {
-      "username": "hasnat",
-      "device_id": "7c6f6ff5aece6f2be530b74112a2916066c4aac3e0e1daf4106014e9549341d1"
+      "device_id": "cc82d4003d1dd952cf88b4a92a41bb91b16cb1062519d358bd1c9ba2795add1c",
+      "registration_timestamp": "2025-11-11T17:52:15.546Z",
+      "username": "Joshy 2"
     },
     {
-      "username": "Darwaish",
-      "device_id": "cdf44a19dad3b50339fe2d20e0c84c10f19bc8ceebef76f8c0d34720ca04bd01"
+      "device_id": "7c6f6ff5aece6f2be530b74112a2916066c4aac3e0e1daf4106014e9549341d1",
+      "username": "hasnat"
     },
     {
-      "username": "Ghulam market",
-      "device_id": "50451af5b89f4d3c0e2cc4044a1f6cea9b6f9e55e119fe0a08b371b012c6fd20"
+      "device_id": "cdf44a19dad3b50339fe2d20e0c84c10f19bc8ceebef76f8c0d34720ca04bd01",
+      "username": "Darwaish"
     },
-   {
-      "username": "Joshy 3.0",
-      "device_id": "b49aed6c8b54d3581a9f53d6d575380989dac289988a6e64d153884af5bc71a0"
+    {
+      "device_id": "50451af5b89f4d3c0e2cc4044a1f6cea9b6f9e55e119fe0a08b371b012c6fd20",
+      "username": "Ghulam market"
+    },
+    {
+      "device_id": "b49aed6c8b54d3581a9f53d6d575380989dac289988a6e64d153884af5bc71a0",
+      "username": "Joshy 3.0"
     }
-
-
-
-
-
-
   ]
 }
