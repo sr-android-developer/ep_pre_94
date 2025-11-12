@@ -1,6 +1,11 @@
 {
   "registered_users": [
     {
+      "device_id": "a031a302ff8f073024fa04476196f9809cf6ee9a738e828ddee61573f525ecf9",
+      "registration_timestamp": "2025-11-12T09:03:31.331Z",
+      "username": "Khabakt"
+    },
+    {
       "device_id": "11ea9435a12e502cb10798cb0a8236d96705925610f83cfa16fbdf2cd87a4886",
       "registration_timestamp": "2025-11-12T06:50:41.052Z",
       "username": "Ch Ar"
